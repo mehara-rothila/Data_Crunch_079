@@ -1,7 +1,7 @@
 # The Future of Harveston: Climate Variable Prediction
 
 ## Overview
-This repository contains our solution for the Data Crunch competition on predicting critical environmental variables for Harveston. Our approach combines ensemble methods and advanced feature engineering to forecast five climate variables: Average Temperature, Radiation, Rain Amount, Wind Speed, and Wind Direction. Our final model achieved a score of 36.8 on the competition leaderboard.
+This repository contains our solution for the Data Crunch competition on predicting critical environmental variables for Harveston. Our approach combines ensemble methods and advanced feature engineering to forecast five climate variables: Average Temperature, Radiation, Rain Amount, Wind Speed, and Wind Direction. Our final model achieved a score of 36.8 on the competition leaderboard [Public].
 
 ## Repository Structure
 The repository is organized as follows:
